@@ -16,13 +16,13 @@ Sigue estos pasos para configurar y ejecutar el backend del proyecto:
 
 Clona el repositorio a tu máquina local usando el siguiente comando:
  
-git clone https://github.com/carlosed1995/AppLibrary.git
+git clone https://github.com/carlosed1995/BackAppLibrary.git
 
 
 ### 2. Navegar al Directorio del Proyecto
 Ve al directorio del proyecto:
 
-cd AppLibrary/backend
+cd BackAppLibrary
 
 ### 3. Instalar Dependencias
 Instala las dependencias del proyecto utilizando Composer:
